@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://crissyarp.github.io/.github/paw">  
+<a href="https://amapolalavi.github.io/.github/paw">  
 <img src="https://img.shields.io/badge/GET_Paw-darkgreen?style=for-the-badge&logo=apple" alt="GET Paw">  
 </a>  
 </div>  
